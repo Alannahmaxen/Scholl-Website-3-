@@ -9,9 +9,13 @@ html{
     scroll-behavior: smooth;
 }
 p{
-    font-size:22px;
+    font-size:20px;
 }
 #2{
     height:200px;
     width:300px;
+}
+h4{
+  
+font-size:26px;
 }
