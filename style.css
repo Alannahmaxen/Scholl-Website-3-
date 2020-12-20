@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+}
+li{
+       float:left;
+}
+    
+html{
+    scroll-behavior: smooth;
+}
+p{
+    font-size:22px;
+}
+#2{
+    height:200px;
+    width:300px;
+}
